@@ -1,0 +1,35 @@
+body{
+    font-family: arial;
+}
+a{
+    color:white;
+    text-decoration: none;
+}
+h2{
+    text-align: center;
+}
+p{
+    line-height: 1.5;
+}
+img{
+    max-width: 100%;
+}
+header{
+    background-image: url(./img/header.jpg);
+    height: 400px;
+    background-size:cover;
+    color:white;
+    text-align: center;
+}
+
+.about-container{
+    display: flex;
+}
+
+.btn-details{
+    display: block;
+    background-color: orange;
+    width:100%;
+    text-align: center;
+    padding: 5px;
+}
